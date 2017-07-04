@@ -1,6 +1,7 @@
 /**
- * Created by Admin on 28.06.2017.
+ * (c) 2017 Streltsov Sergey
  */
+
 public class BooleanExp {
     public static boolean booleanExpression(boolean a, boolean b, boolean c, boolean d) {
         int count = 0;

@@ -1,3 +1,7 @@
+/**
+ * (c) 2017 Streltsov Sergey
+ */
+
 import java.security.MessageDigest;
 
 public class Quiz {
