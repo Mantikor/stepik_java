@@ -4,7 +4,6 @@
  * text - any string
  * return - true when text is a palindrome, false otherwise
  */
-
 public class Palindrome {
     public static boolean isPalindrome(String text) {
         text = text.replaceAll("[^a-zA-Z0-9]", "");
